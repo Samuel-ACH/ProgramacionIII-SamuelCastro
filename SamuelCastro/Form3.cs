@@ -42,7 +42,7 @@ namespace SamuelCastro
                 }
                 if (i % 3 == 0 & i % 5 == 0)
                 {
-                    lbcalcular.Items.Add(i.ToString() + nombre + " " +apellido);
+                    lbcalcular.Items.Add(i.ToString() + nombre + " " + apellido);
                 }
             }
            
